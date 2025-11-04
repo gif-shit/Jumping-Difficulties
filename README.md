@@ -26,3 +26,5 @@ Avoid pipes, stay alive, and get the highest score.
 
 ```bash
 pip install pygame
+
+## press up arrow key 2 times and down arrow key 2 times in the span of 1.6 seconds, its a cheat code!
